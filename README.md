@@ -12,6 +12,10 @@ description: AIBEE算法测试小白成长日记
 
 ## Now, let's get started!
 
+{% hint style="success" %}
+为了更好的阅读体验，请前往该网页[https://1374736640.gitbook.io/note/](https://1374736640.gitbook.io/note/)
+{% endhint %}
+
 
 
 
