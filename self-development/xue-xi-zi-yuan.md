@@ -1,12 +1,22 @@
+---
+description: 人与人之间最远的距离就是，我在学习，而你不在学习
+---
+
 # 学习资源
 
-## Can I become who I want to be?
+## Python
 
-That's a tough question but thankfully, our team is on it. Please bear with us while we're investigating.
+Python Doc: [https://www.kite.com/python/answers/](https://www.kite.com/python/answers/)
 
-## Have you had a chance to answer the previous question?
+### Python Visualize
 
-Yes, after a few months we finally found the answer. Sadly, Mike is on vacations right now so I'm afraid we are not able to provide the answer at this point.
+
+
+## Machine Learning
+
+## About Model Test
+
+ModelArts: [https://support.huaweicloud.com/engineers-modelarts/modelarts\_23\_0001.html](https://support.huaweicloud.com/engineers-modelarts/modelarts_23_0001.html)
 
 
 

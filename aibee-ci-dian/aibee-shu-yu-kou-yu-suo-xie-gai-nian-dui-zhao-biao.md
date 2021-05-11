@@ -19,8 +19,9 @@ description: 专治各种只说缩写不说全拼，有了词典，开会讨论�
 * oscar
 * ncnn
 * rknn
-* ctf
-* vw
+* cis?
+* poc
+* ipo
 
 ## abbr \(abbreviation\) -&gt; 这本身也是缩写啊喂！
 
@@ -29,8 +30,10 @@ description: 专治各种只说缩写不说全拼，有了词典，开会讨论�
 * npp: 
 * fpr: false-positive ratio
 * tpr: true-positive ratio
-* IDE: Integration Development Environment
-* 
+* IDE: Integration Development Environment 集成开发环境
+* ctf: chow tai fook 周大福
+* vw: Volkswagen 大众
+
 ## Oral Language -&gt; 我的English说的非常fluently
 
 * solid - 坚实的，可靠的
