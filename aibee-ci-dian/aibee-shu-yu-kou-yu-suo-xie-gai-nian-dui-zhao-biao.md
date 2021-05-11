@@ -19,7 +19,9 @@ description: 专治各种只说缩写不说全拼，有了词典，开会讨论�
 * oscar
 * ncnn
 * rknn
-* 
+* ctf
+* vw
+
 ## abbr \(abbreviation\) -&gt; 这本身也是缩写啊喂！
 
 * sv: single-view
@@ -29,7 +31,7 @@ description: 专治各种只说缩写不说全拼，有了词典，开会讨论�
 * tpr: true-positive ratio
 * IDE: Integration Development Environment
 * 
-## Oral Language -&gt; 我的English说的非常fluency
+## Oral Language -&gt; 我的English说的非常fluently
 
 * solid - 坚实的，可靠的
 * anyway - 无论如何
